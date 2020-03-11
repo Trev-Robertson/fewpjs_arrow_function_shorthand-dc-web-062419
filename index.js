@@ -1,1 +1,3 @@
-let divide = function(){}
+let divide = function(){
+  re
+}
